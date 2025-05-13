@@ -1,3 +1,3 @@
-module github.com/k2-fsa/sherpa-onnx-go
+module github.com/0x5446/sherpa-onnx-go
 
 go 1.17
